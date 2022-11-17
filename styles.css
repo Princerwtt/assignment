@@ -1,0 +1,12 @@
+* {
+  margin: 1%;
+  background-color:white;
+}
+.grid-container {
+  display: grid;
+  grid-template-columns: 30% 10% 10% 10%;
+  border: solid black 2px;
+}
+h1 {
+  text-align: center;
+}
